@@ -1,4 +1,3 @@
-# Simulado COER - Anatel
-## Prova para obtenção do Certificado de Operador de Estação de Radioamador
+# Simulados LPI
 
-http://vmartins.github.io/simulado-coer-anatel
+http://giovannism20.github.io/simulado-lpi
